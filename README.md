@@ -4,5 +4,6 @@
 ```
 module "release1" {
   source  = "mariadubita/release1/helm"
+  name = "testapplication"
 }
 ```
