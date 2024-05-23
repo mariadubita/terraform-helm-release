@@ -9,3 +9,9 @@ variable namespace  {
   type = string 
   default = ""
 }
+
+variable values_yaml  { 
+  description = "Please enter a values_yaml name"
+  type = string 
+  default = ""
+}
